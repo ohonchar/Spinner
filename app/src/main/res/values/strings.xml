@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string-array name="S">
+        <item>RED</item>
+        <item>BLUE</item>
+        <item>GREEN</item>
+        <item>YELLOW</item>
+        <item>WHITE</item>
+        <item>BLACK</item>
+        <item>RED</item>
+        <item>MAGENTA</item>
+        <item>BROWN</item>
+        <item>BLUE</item>
+        <item>PURPLE</item>
+        <item>GREEN</item>
+        <item>GRAY</item>
+        <item>YELLOW</item>
+        <item>CYAN</item>
+    </string-array>
+</resources>
